@@ -1,0 +1,16 @@
+.buttonActive {
+    flex: 0 0 14%;
+    width: 1%;
+    height: 3.5vw;
+    cursor: pointer;
+    color: #4da6ff;
+    border: 2px solid #4da6ff;
+    font-weight: bold;
+}
+
+.buttonDefault {
+    flex: 0 0 14%;
+    width: 12%;
+    height: 3.5vw;
+    cursor: pointer;
+}
